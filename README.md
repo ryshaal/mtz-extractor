@@ -11,7 +11,7 @@ In addition, a desktop application version is also available — a Python-based 
 
 <a href='https://ko-fi.com/riyhsal/5' target='_blank'><img height='40' style='border:0px;height:40px;' src='https://storage.ko-fi.com/cdn/kofi2.png?v=6' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
 
-## ✨ Features
+## Features
 
 - **Extract MTZ Files**: Decompress MTZ theme files into organized folders with automatic nested archive handling
 - **Pack to MTZ**: Compress folders into MTZ theme files with smart compression
@@ -25,7 +25,7 @@ In addition, a desktop application version is also available — a Python-based 
 - **Statistics Dashboard**: Detailed statistics for compression ratios, file counts, and processing time
 - **Cross-Platform**: Works on Windows, Linux, and macOS
 
-## 📋 Requirements
+## Requirements
 
 This tool requires **Python 3.7 or higher** to run. Ensure you have the necessary Python version installed on your system.
 
@@ -43,7 +43,7 @@ Or install manually:
 pip install psutil
 ```
 
-## 🚀 Installation & Usage
+## Installation & Usage
 
 ### 1. Clone the repository
 
@@ -64,7 +64,7 @@ pip install -r requirements.txt
 python main.py
 ```
 
-## 💻 How to Use
+## How to Use
 
 ### Main Menu
 
@@ -152,7 +152,7 @@ When you run the tool, you'll see an interactive menu with 3 options:
 
 Select option `3` to exit the application safely.
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 mtz-extractor/
@@ -186,7 +186,7 @@ mtz-extractor/
 └── extracted/             # Extracted files (auto-generated)
 ```
 
-## 🎨 Features in Detail
+## Features in Detail
 
 ### Color-Coded Output
 - **Cyan**: Information and prompts
@@ -219,7 +219,7 @@ Logs are saved in `./logs/` folder with timestamps.
 - **Empty folder cleanup**: Removes unnecessary empty directories
 - **Duplicate handling**: Creates numbered copies if folder exists
 
-## 📊 Statistics Dashboard
+## Statistics Dashboard
 
 After each operation, you'll see detailed statistics:
 - **Total files processed**: Number of files handled
@@ -229,7 +229,7 @@ After each operation, you'll see detailed statistics:
 - **Processing time**: Duration in seconds
 - **Output location**: Full absolute path
 
-## 🛠️ Development
+## Development
 
 ### Adding New Features
 
@@ -244,7 +244,7 @@ After each operation, you'll see detailed statistics:
 - Add docstrings to functions and classes
 - Keep functions focused and modular
 
-## 🐛 Troubleshooting
+## Troubleshooting
 
 ### Common Issues
 
@@ -266,26 +266,19 @@ After each operation, you'll see detailed statistics:
 - Ensure file/folder exists before processing
 - Check for special characters in path names
 
-## 📝 License
+## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 
 
-## ⭐ Show your support
+## Show your support
 
 Give a ⭐️ if this project helped you!
 
 <a href='https://ko-fi.com/riyhsal' target='_blank'><img height='40' style='border:0px;height:40px;' src='https://storage.ko-fi.com/cdn/kofi2.png?v=6' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
 
-## 📮 Contact
+## Contact
 
 For questions or suggestions, please open an issue on GitHub.
 
----
-
-**For more details and updates, visit [GitHub Repository](https://github.com/ryshaal/mtz_extractor)**
-
----
-
-Made with ❤️ by Ryhshall
