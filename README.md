@@ -9,8 +9,7 @@ In addition, a desktop application version is also available — a Python-based 
 
 [![Download](https://img.shields.io/badge/Download%20MTZ_Extractor-v2.0-blue?style=for-the-badge&logo=windows)](https://github.com/ryshaal/mtz_extractor/releases/download/v2.0/MTZ_Extractor.exe)
 
-<a href='https://ko-fi.com/riyhsal/5' target='_blank'><img height='40' style='border:0px;height:40px;' src='https://storage.ko-fi.com/cdn/kofi2.png?v=6' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
-
+![Views Counter](https://views-counter.vercel.app/badge?pageId=ryshaal%2Fmtz-extractor)
 ## Features
 
 - **Extract MTZ Files**: Decompress MTZ theme files into organized folders with automatic nested archive handling
