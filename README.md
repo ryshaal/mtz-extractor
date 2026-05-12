@@ -2,6 +2,7 @@
 ![Python](https://img.shields.io/badge/python-3.7+-blue.svg)
 ![License](https://img.shields.io/badge/license-MIT-green.svg)
 ![Version](https://img.shields.io/badge/version-3.0-brightgreen.svg)
+![Views Counter](https://views-counter.vercel.app/badge?pageId=ryshaal%2Fmtz-extractor)
 
 This repository contains a Python tool for **extracting** and **packing** `.mtz` files, specifically designed for Xiaomi MIUI themes. The tool allows easy access to the contents of `.mtz` theme files and enables you to create your own MTZ packages, making theme customization and modification much simpler.
 
@@ -9,7 +10,7 @@ In addition, a desktop application version is also available — a Python-based 
 
 [![Download](https://img.shields.io/badge/Download%20MTZ_Extractor-v2.0-blue?style=for-the-badge&logo=windows)](https://github.com/ryshaal/mtz_extractor/releases/download/v2.0/MTZ_Extractor.exe)
 
-![Views Counter](https://views-counter.vercel.app/badge?pageId=ryshaal%2Fmtz-extractor)
+
 ## Features
 
 - **Extract MTZ Files**: Decompress MTZ theme files into organized folders with automatic nested archive handling
